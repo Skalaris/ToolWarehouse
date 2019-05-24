@@ -1,4 +1,4 @@
-package pl.jnowacki.filter;
+package pl.graza.filter;
 
 import javax.servlet.*;
 import javax.servlet.annotation.WebFilter;

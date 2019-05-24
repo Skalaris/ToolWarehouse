@@ -1,7 +1,7 @@
-package pl.jnowacki.dao;
+package pl.graza.dao;
 
-import pl.jnowacki.model.Tool;
-import pl.jnowacki.model.ToolType;
+import pl.graza.model.Tool;
+import pl.graza.model.ToolType;
 
 import java.sql.*;
 import java.util.ArrayList;

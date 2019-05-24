@@ -1,6 +1,6 @@
-package pl.jnowacki.dao;
+package pl.graza.dao;
 
-import pl.jnowacki.model.Tool;
+import pl.graza.model.Tool;
 
 import java.util.List;
 

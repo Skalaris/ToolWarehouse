@@ -1,7 +1,7 @@
-package pl.jnowacki.controller;
+package pl.graza.controller;
 
-import pl.jnowacki.model.Tool;
-import pl.jnowacki.service.ToolsService;
+import pl.graza.model.Tool;
+import pl.graza.service.ToolsService;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

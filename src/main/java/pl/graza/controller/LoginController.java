@@ -1,4 +1,4 @@
-package pl.jnowacki.controller;
+package pl.graza.controller;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

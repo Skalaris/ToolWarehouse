@@ -1,8 +1,8 @@
-package pl.jnowacki.service;
+package pl.graza.service;
 
-import pl.jnowacki.dao.ToolDao;
-import pl.jnowacki.dao.ToolDaoImpl;
-import pl.jnowacki.model.Tool;
+import pl.graza.dao.ToolDao;
+import pl.graza.dao.ToolDaoImpl;
+import pl.graza.model.Tool;
 
 import java.util.List;
 import java.util.Optional;

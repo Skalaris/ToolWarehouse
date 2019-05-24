@@ -1,4 +1,4 @@
-package pl.jnowacki.model;
+package pl.graza.model;
 
 import java.io.Serializable;
 
